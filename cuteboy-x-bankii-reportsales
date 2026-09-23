@@ -342,7 +342,7 @@
 <script>
 // ===================== CONFIG =====================
 // วางลิงก์ Apps Script Web App (.../exec) ที่ deploy จาก Code.gs ตรงนี้
-const API_URL = 'https://script.google.com/macros/s/AKfycbzUR3OKmZ9NqoCDjpZb_jhY59Ulu7uwX282GNvyWqyJVnO9UuoJ3uSiBDIIAQfTr7cRtQ/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbxNBhxO4e-hlWGG8D8oVQiJqS0FuS5kSdAX7cOL5GAIvE9McIAnt8d1wNsERUuiL7DzOQ/exec';
 const SIZE_ORDER = ['S','M','L','XL','2XL','3XL'];
 const PLATFORM_DEFS = {
   'shopee': {label:'Shopee', color:'#FB6B1E'},
